@@ -1,9 +1,1 @@
 langgenius/dify-api
-postgres:15-alpine
-nginx:latest
-redis:6-alpine
-langgenius/dify-sandbox
-ubuntu/squid:latest
-semitechnologies/weaviate
-langgenius/dify-web
-langgenius/dify-api
