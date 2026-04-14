@@ -1,1 +1,2 @@
-alpine/openclaw:latest
+postgres:15.17
+joplin/server
