@@ -1,1 +1,3 @@
-sunxiao0721/panwatch
+elestio/mysql:8.0
+elestio/itop:latest
+phpmyadmin
